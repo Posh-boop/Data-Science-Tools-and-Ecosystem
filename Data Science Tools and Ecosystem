@@ -1,0 +1,233 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "94041021-2fa3-4f70-9a9f-2d4787c1f3c1",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "DataScienceEcosystem.ipynb"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f76100d4-0d0d-4a95-beb8-70a07d38282b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "<Data Science Tools and Ecosystem>"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "79e730ff-5c87-4e4a-b62f-c27686659143",
+   "metadata": {},
+   "source": [
+    "In this notebook, Data Science Tools and Ecosystem are summarizes"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1618c4b1-d3e4-4f3f-912c-b2b328cc2579",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Some of the popular languages that Data Scientists use are:\n",
+    "1.Python\n",
+    "2. R\n",
+    "3. SQL"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "516438a3-c79d-4c12-96f4-cb44274f8e27",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Some of the commonly used libraries used by Data Scientists include: \n",
+    "1.Numpy for numerical operations\n",
+    "2.Pandas for data manupulation and analysis\n",
+    "3. Matplotlib and Seaborn for data visualization\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b1c79900-ffbe-4dc4-ae70-8bc74597a507",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Data Science Tools\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a79ed68d-88bc-493d-84d1-9daa2e475ff7",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Jupyter Notebook"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b92072e2-a49e-4b23-a4f5-bbde72a00e0e",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "RStudio"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "35c88093-ad80-4ff7-b077-24ab3a544e35",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "VS Code with extensions"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4ee0703b-6a79-408e-93ee-26e51ebd1eed",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "### Below are a few examples of evaluating arithmetic expressions in Python ###"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "0fb4c3cd-78ed-498a-9a9c-02729890b157",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 1,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "(3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "723df981-9441-4759-915e-e3fd8f1d90f4",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "This is a simple arithmetic expression to multiple then add integers."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "72c7930c-0e42-4ea4-8310-c75720769db8",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid syntax (1810917172.py, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[3], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    200 divided by 60\u001b[0m\n\u001b[0m        ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+     ]
+    }
+   ],
+   "source": [
+    "200 divided by 60"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c47ec431-c143-45da-bb5f-f93988401558",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "This will convert "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "f934d3e4-83a7-4919-a57c-b9648267723b",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "200 minutes is equal to 3.3333333333333335 hours\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Assistant\n",
+    "# Convert 200 minutes into hours\n",
+    "minutes = 200\n",
+    "hours = minutes / 60  # Dividing by 60 to convert minutes to hours\n",
+    "print(f\"{minutes} minutes is equal to {hours} hours\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "479d5b98-9060-440c-9a43-40aa9d666d50",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "BOJECTIVE\n",
+    "3. Python\n",
+    "4. R\n",
+    "5. SQL"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "9a4921ad-8e5a-4a2c-9c69-b3fc3c1b28e1",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "anaconda-2024.02-py310",
+   "language": "python",
+   "name": "conda-env-anaconda-2024.02-py310-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.14"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
